@@ -1,0 +1,38 @@
+<AnnotationLayers>
+  <Annotation>
+    <Property key="LABEL" value="nolabel"/>
+    <Property key="ENABLE" value="1"/>
+    <Property key="OPACITY" value="0.4"/>
+    <Property key="COLOR" value="#0000ff"/>
+        <Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        2 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        1 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        0 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        3 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+</AnnotationLayers>

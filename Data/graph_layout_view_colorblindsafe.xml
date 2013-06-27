@@ -1,0 +1,218 @@
+<AnnotationLayers>
+  <Annotation>
+    <Property key="ENABLE" value="1"/>
+    <Property key="COLOR" value="#fc8d59"/>
+    <Property key="LABEL" value="vtkAbstractTransform"/>
+    <Property key="OPACITY" value="0.705882"/>
+        <Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="13" number_of_components="1">
+        630 638 637 636 628 629 626 627 635 634 633 632 631 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="13" number_of_components="1">
+        604 612 611 610 602 603 600 601 609 608 607 606 605 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="13" number_of_components="1">
+        591 599 598 597 589 590 587 588 596 595 594 593 592 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="13" number_of_components="1">
+        566 574 573 572 564 565 562 563 571 570 569 568 567 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="13" number_of_components="1">
+        538 546 545 544 536 537 534 535 543 542 541 540 539 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="13" number_of_components="1">
+        518 526 525 524 516 517 514 515 523 522 521 520 519 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="13" number_of_components="1">
+        490 498 497 496 488 489 486 487 495 494 493 492 491 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="ENABLE" value="1"/>
+    <Property key="COLOR" value="#d73027"/>
+    <Property key="LABEL" value="vtkAlgorithm"/>
+    <Property key="OPACITY" value="0.705882"/>
+        <Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="47" number_of_components="1">
+        944 922 921 915 920 914 919 918 917 916 928 927 926 925 924 943 937 942 936 941 940 939 938 930 935 929 934 933 932 931 950 953 952 951 908 905 907 906 912 911 909 910 913 949 948 947 946 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="47" number_of_components="1">
+        876 854 853 847 852 846 851 850 849 848 860 859 858 857 856 875 869 874 868 873 872 871 870 862 867 861 866 865 864 863 882 885 884 883 840 837 839 838 844 843 841 842 845 881 880 879 878 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="47" number_of_components="1">
+        60 191 190 184 189 183 188 187 186 185 197 196 195 194 193 212 206 211 205 210 209 208 207 199 204 198 203 202 201 200 218 221 220 219 177 174 176 175 181 180 178 179 182 217 216 215 214 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="47" number_of_components="1">
+        0 20 19 13 18 12 17 16 15 14 26 25 24 23 22 41 35 40 34 39 38 37 36 28 33 27 32 31 30 29 47 50 49 48 6 3 5 4 10 9 7 8 11 46 45 44 43 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="ENABLE" value="1"/>
+    <Property key="COLOR" value="#fee090"/>
+    <Property key="LABEL" value="vtkCamera"/>
+    <Property key="OPACITY" value="0.705882"/>
+        <Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="21" number_of_components="1">
+        642 659 658 630 566 518 657 656 655 654 653 652 651 650 649 648 647 646 645 644 643 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="ENABLE" value="1"/>
+    <Property key="COLOR" value="#e0f3f8"/>
+    <Property key="LABEL" value="vtkCommand"/>
+    <Property key="OPACITY" value="0.705882"/>
+        <Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="4" number_of_components="1">
+        1089 1092 1091 1090 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="4" number_of_components="1">
+        987 990 989 988 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="4" number_of_components="1">
+        983 986 985 984 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="4" number_of_components="1">
+        979 982 981 980 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="4" number_of_components="1">
+        780 783 782 781 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="4" number_of_components="1">
+        756 759 758 757 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="4" number_of_components="1">
+        462 465 464 463 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="4" number_of_components="1">
+        337 340 339 338 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="ENABLE" value="1"/>
+    <Property key="COLOR" value="#4575b4"/>
+    <Property key="LABEL" value="vtkDataObject"/>
+    <Property key="OPACITY" value="0.705882"/>
+        <Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="22" number_of_components="1">
+        452 446 437 459 458 457 421 433 432 430 429 428 427 426 425 424 423 422 456 455 454 453 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="22" number_of_components="1">
+        326 320 311 333 332 331 295 307 306 304 303 302 301 300 299 298 297 296 330 329 328 327 
+        </SelectionList>
+      </Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="22" number_of_components="1">
+        163 157 148 170 169 168 132 144 143 141 140 139 138 137 136 135 134 133 167 166 165 164 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="ENABLE" value="1"/>
+    <Property key="COLOR" value="#91bfdb"/>
+    <Property key="LABEL" value="vtkLight"/>
+    <Property key="OPACITY" value="0.705882"/>
+        <Selection>
+      <Selection>
+        <Property key="FIELD_TYPE" value="3"/>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="12" number_of_components="1">
+        660 671 670 669 668 667 666 665 664 663 662 661 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+</AnnotationLayers>

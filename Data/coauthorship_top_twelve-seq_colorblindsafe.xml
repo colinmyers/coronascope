@@ -1,0 +1,182 @@
+<AnnotationLayers>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Jock Mackinlay"/>
+    <Property key="COLOR" value="#f2f0f7"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        101 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Stuart Card"/>
+    <Property key="COLOR" value="#f2f0f7"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        102 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="George Robertson"/>
+    <Property key="COLOR" value="#dadaeb"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        103 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Benjamin Bederson"/>
+    <Property key="COLOR" value="#dadaeb"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        112 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Chris Olston"/>
+    <Property key="COLOR" value="#bcbddc"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        118 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Steven Roth"/>
+    <Property key="COLOR" value="#bcbddc"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        179 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Ben Shneiderman"/>
+    <Property key="COLOR" value="#9e9ac8"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        3 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Roberto Tamassia"/>
+    <Property key="COLOR" value="#9e9ac8"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        410 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Jim Baker"/>
+    <Property key="COLOR" value="#756bb1"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        411 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Ed Chi"/>
+    <Property key="COLOR" value="#756bb1"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        49 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Stephen Eick"/>
+    <Property key="COLOR" value="#54278f"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        66 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+  <Annotation>
+    <Property key="OPACITY" value="0.6"/>
+    <Property key="LABEL" value="Mei Chuah"/>
+    <Property key="COLOR" value="#54278f"/>
+    <Property key="ENABLE" value="1"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="1" number_of_components="1">
+        87 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+</AnnotationLayers>

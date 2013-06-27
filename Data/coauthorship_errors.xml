@@ -1,0 +1,17 @@
+<AnnotationLayers>
+  <Annotation>
+    <Property key="LABEL" value="Errors"/>
+    <Property key="ENABLE" value="1"/>
+    <Property key="OPACITY" value="0.4"/>
+    <Property key="COLOR" value="#ff0000"/>
+        <Selection>
+      <Selection>
+        <Property key="CONTENT_TYPE" value="4"/>
+        <Property key="FIELD_TYPE" value="3"/>
+        <SelectionList classname="vtkIdTypeArray" name="" number_of_tuples="2" number_of_components="1">
+        161 341 
+        </SelectionList>
+      </Selection>
+    </Selection>
+  </Annotation>
+</AnnotationLayers>

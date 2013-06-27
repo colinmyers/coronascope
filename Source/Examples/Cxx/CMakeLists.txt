@@ -1,0 +1,3 @@
+ADD_SUBDIRECTORY(SimpleGraphAnnotations)
+ADD_SUBDIRECTORY(AnnotatedGraphView)
+ADD_SUBDIRECTORY(CoronaScope)
